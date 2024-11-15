@@ -14,9 +14,9 @@ Use Power BI desktop para la visualizacion del Dashboard
 
 ## Construido con 🛠️
 
-* [Microsoft Excel) - Origen de los datos
-* [Power Query) - Limpieza de Datos
-* [Microsoft Power Bi) - Creacion del Dashboard
+* [Microsoft Excel] - Origen de los datos
+* [Power Query] - Limpieza de Datos
+* [Microsoft Power Bi] - Creacion del Dashboard
 
 
 ## Autor ✒️
