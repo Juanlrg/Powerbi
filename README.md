@@ -4,9 +4,9 @@ Toma el control de tus finanzas visualizando de forma clara y concisa los ingres
 producto y periodo. Identifique rápidamente las tendencias clave, compara el desempeño de diferentes productos y tome decisiones estratégicas basadas en datos 
 sólidos. Con este dashboard, podrás:
 
-Optimizar operaciones: Identifica áreas de mejora y reduce costos.
-Aumentar rentabilidad: Descubre tus productos y clientes más rentables.
-Tomar decisiones más rápidas y precisas: Accede a la información que necesitas en tiempo real.
+* Optimizar operaciones: Identifica áreas de mejora y reduce costos.
+* Aumentar rentabilidad: Descubre tus productos y clientes más rentables.
+* Tomar decisiones más rápidas y precisas: Accede a la información que necesitas en tiempo real.
 
 ## Despliegue 🚀
 
